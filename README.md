@@ -1,16 +1,16 @@
 # Project
 1. Проведение разведочного анализа данных. Использованные инструменты: <br />Pandas
 3. Создание регионального рейтинга доступности жилья. Использованные инструменты:
-   Pandas
-   Numpy
-   Matplotlib.pyplot
+   <br />Pandas
+   <br />Numpy
+   <br />Matplotlib.pyplot
 4. Прогнозирование стоимости недвижимости с помощью линейной регрессии. Использованные инструменты:
-   Pandas
-   Numpy
-   Matplotlib.pyplot
-   sklearn.linear_model
-   sklearn.metrics
-   sklearn.model_selection
+   <br />Pandas
+   <br />Numpy
+   <br />Matplotlib.pyplot
+  <br />sklearn.linear_model
+   <br />sklearn.metrics
+   <br />sklearn.model_selection
 5. SQL-запросы.
    Задача: Анализ опубликованных вакансий на HH.ru. Использованные инструменты:
    PostgreSQL
