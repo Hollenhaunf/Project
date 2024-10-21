@@ -6,15 +6,15 @@
    <br />-Numpy
    <br />-Matplotlib.pyplot
 4. Прогнозирование стоимости недвижимости с помощью линейной регрессии. Использованные инструменты:
-   <br />Pandas
-   <br />Numpy
-   <br />Matplotlib.pyplot
-  <br />sklearn.linear_model
-   <br />sklearn.metrics
-   <br />sklearn.model_selection
+   <br />-Pandas
+   <br />-Numpy
+   <br />-Matplotlib.pyplot
+   <br />-sklearn.linear_model
+   <br />-sklearn.metrics
+   <br />-sklearn.model_selection
 5. SQL-запросы.
    <br />Задача: Анализ опубликованных вакансий на HH.ru. Использованные инструменты:
-   <br />PostgreSQL
+   <br />-PostgreSQL
 6. SQL-запросы.
    <br />Задача: Показать навыки формирования сложных SQL запросов
 7. Дашборд в Power BI
